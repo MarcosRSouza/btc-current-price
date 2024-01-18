@@ -1,6 +1,6 @@
 # BTC Current Price Minimal
 
-- This a terminal minimalist version of the bitcoin current price checker. 
+This a terminal minimalist version of the bitcoin current price checker. 
 
 ## Installation
 

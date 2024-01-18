@@ -1,4 +1,4 @@
-# btc-current-price-min
+# BTC Current Price Minimal
 
 This is a terminal minimalist version of the bitcoin current price checker. 
 
@@ -8,7 +8,7 @@ This is a terminal minimalist version of the bitcoin current price checker.
 
 - ```npm i```
 
-- If you don't use npm, run the equivalent command with your prefered package manager
+- If you don't use npm, run the equivalent command with your prefered package manager.
 
 ## Running the application
 
@@ -20,4 +20,4 @@ This is a terminal minimalist version of the bitcoin current price checker.
 
 - As this is an open source repository with the Creative Commons license, feel free to fork it and do whatever you want with this code. 
 
-- If you want to directly change the code in this repository, open a pull request (But I won't garantee it'll be added :))
+- If you want to directly change the code in this repository, open a pull request (But I won't garantee it'll be added :)).
